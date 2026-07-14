@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[3020,["/ifzalhussain/_next/static/chunks/05-c3ty_6dwfk.js","/ifzalhussain/_next/static/chunks/14mrh2-p_w84d.js","/ifzalhussain/_next/static/chunks/2-gk0ekbneyay.js"],"SiteHeader"]
+3:I[22016,["/ifzalhussain/_next/static/chunks/05-c3ty_6dwfk.js","/ifzalhussain/_next/static/chunks/14mrh2-p_w84d.js","/ifzalhussain/_next/static/chunks/2-gk0ekbneyay.js"],""]
+4:I[97367,["/ifzalhussain/_next/static/chunks/05-c3ty_6dwfk.js","/ifzalhussain/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"inner-shell not-found-shell","id":"main-content","children":[["$","div",null,{"className":"atmosphere","aria-hidden":"true"}],["$","$L2",null,{}],["$","section",null,{"className":"not-found-content","children":[["$","p",null,{"className":"section-index","children":"404 / Lost branch"}],["$","h1",null,{"children":["This crystal never ",["$","em",null,{"children":"grew."}]]}],["$","p",null,{"children":"Either the link wandered off, or this branch is still waiting for its nucleus. Let's return to familiar territory."}],["$","$L3",null,{"className":"text-link","href":"/","children":["Return to the nucleus ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}],[["$","script","script-0",{"src":"/ifzalhussain/_next/static/chunks/2-gk0ekbneyay.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"nxE-ceDWRSmCqzWCRZ4Ez"}
+6:null
